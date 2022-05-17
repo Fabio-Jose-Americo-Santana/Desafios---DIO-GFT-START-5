@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio4/1.0.0": {
+        "runtime": {
+          "DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
