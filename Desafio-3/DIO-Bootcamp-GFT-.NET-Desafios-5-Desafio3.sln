@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio3", "DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio3\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio3.csproj", "{FBECD2EA-F97A-4FC1-AFB8-B7B9AC7587D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBECD2EA-F97A-4FC1-AFB8-B7B9AC7587D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBECD2EA-F97A-4FC1-AFB8-B7B9AC7587D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBECD2EA-F97A-4FC1-AFB8-B7B9AC7587D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBECD2EA-F97A-4FC1-AFB8-B7B9AC7587D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF454D1-41D6-40C0-A5E0-E123518E85E3}
+	EndGlobalSection
+EndGlobal
