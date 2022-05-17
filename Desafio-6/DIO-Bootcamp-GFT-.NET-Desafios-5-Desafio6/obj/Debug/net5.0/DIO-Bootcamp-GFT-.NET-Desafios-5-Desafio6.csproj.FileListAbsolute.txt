@@ -1,0 +1,32 @@
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.exe
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.deps.json
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.runtimeconfig.json
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.runtimeconfig.dev.json
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.pdb
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.csproj.AssemblyReference.cache
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.AssemblyInfoInputs.cache
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.AssemblyInfo.cs
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.csproj.CoreCompileInputs.cache
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\refint\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.pdb
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.genruntimeconfig.cache
+C:\Projetos\Bootcamp-GFT.NET\DIO-Bootcamp-GFT-.NET-Desafios-#5\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\ref\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.exe
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.deps.json
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.runtimeconfig.json
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.runtimeconfig.dev.json
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\bin\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.pdb
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.csproj.AssemblyReference.cache
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.AssemblyInfoInputs.cache
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.AssemblyInfo.cs
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.csproj.CoreCompileInputs.cache
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\refint\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.pdb
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.genruntimeconfig.cache
+C:\Projetos\Bootcamp-GFT.NET\Desafios - DIO-GFT-START-5\Desafio-6\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6\obj\Debug\net5.0\ref\DIO-Bootcamp-GFT-.NET-Desafios-5-Desafio6.dll
